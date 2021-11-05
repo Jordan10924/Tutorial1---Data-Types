@@ -1,0 +1,16 @@
+D:\Mega\Programming\Visual Studio\Program\Program\bin\Debug\net5.0\Program.exe
+D:\Mega\Programming\Visual Studio\Program\Program\bin\Debug\net5.0\Program.deps.json
+D:\Mega\Programming\Visual Studio\Program\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+D:\Mega\Programming\Visual Studio\Program\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+D:\Mega\Programming\Visual Studio\Program\Program\bin\Debug\net5.0\Program.dll
+D:\Mega\Programming\Visual Studio\Program\Program\bin\Debug\net5.0\ref\Program.dll
+D:\Mega\Programming\Visual Studio\Program\Program\bin\Debug\net5.0\Program.pdb
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.dll
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\ref\Program.dll
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.pdb
+D:\Mega\Programming\Visual Studio\Program\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
